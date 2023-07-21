@@ -1,0 +1,17 @@
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\bin\Debug\net7.0-windows\PSAula10-exercicioEstacionamento.exe
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\bin\Debug\net7.0-windows\PSAula10-exercicioEstacionamento.deps.json
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\bin\Debug\net7.0-windows\PSAula10-exercicioEstacionamento.runtimeconfig.json
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\bin\Debug\net7.0-windows\PSAula10-exercicioEstacionamento.dll
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\bin\Debug\net7.0-windows\PSAula10-exercicioEstacionamento.pdb
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\obj\Debug\net7.0-windows\PSAula10-exercicioEstacionamento.csproj.AssemblyReference.cache
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\obj\Debug\net7.0-windows\PSAula10_exercicioEstacionamento.Form1.resources
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\obj\Debug\net7.0-windows\PSAula10-exercicioEstacionamento.csproj.GenerateResource.cache
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\obj\Debug\net7.0-windows\PSAula10-exercicioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\obj\Debug\net7.0-windows\PSAula10-exercicioEstacionamento.AssemblyInfoInputs.cache
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\obj\Debug\net7.0-windows\PSAula10-exercicioEstacionamento.AssemblyInfo.cs
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\obj\Debug\net7.0-windows\PSAula10-exercicioEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\obj\Debug\net7.0-windows\PSAula10-exercicioEstacionamento.dll
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\obj\Debug\net7.0-windows\refint\PSAula10-exercicioEstacionamento.dll
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\obj\Debug\net7.0-windows\PSAula10-exercicioEstacionamento.pdb
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\obj\Debug\net7.0-windows\PSAula10-exercicioEstacionamento.genruntimeconfig.cache
+C:\Users\matheus.hsilva76\source\repos\pomba\PSAula10-exercicioEstacionamento\obj\Debug\net7.0-windows\ref\PSAula10-exercicioEstacionamento.dll
